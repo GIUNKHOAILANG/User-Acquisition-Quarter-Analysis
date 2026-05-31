@@ -12,7 +12,7 @@ The portfolio is profitable but poorly balanced. During this quarter, **$160K** 
 
 Four moves are suggested, all executable inside two weeks:
 
-- **Pause TikTok entirely** and reallocate the $25K/qtr to Google and Unity. TikTok is returning $0.23 for every $1 spent — this is the single biggest unforced error in the portfolio.
+- **Pause TikTok entirely** and reallocate the $25K/qtr to Google and Unity. TikTok is returning $0.23 for every $1 spent - this is the single biggest unforced error in the portfolio.
 
 - **Scale Google and Unity by 15%** on a 3-day period, with marginal CPA monitoring. Combined headroom is roughly $20K gradual revenue per quarter at current LTV.
 
@@ -34,19 +34,19 @@ Headline numbers from the Power BI dashboard, using paid-only metrics (organic i
 | **Contribution margin** | **$32,221** | Concentrated in two channels |
 | Paid CAC | $0.47 per install | Healthy vs LTV ceiling |
 | Organic lift | 16.2% of installs ($20K rev) | Now reported separately |
-| Paid installs | 338,292 | — |
+| Paid installs | 338,292 | - |
 
 ## Channel portfolio
 
 | **Channel** | **Spend** | **CAC** | **ROAS** | **Quadrant** | **Verdict** |
 | --- | --- | --- | --- | --- | --- |
-| **Google** | $42,698 | $0.36 | **2.01** | **SCALE** | Best channel in the portfolio. Scale aggressively but monitor marginal CPA — the easy headroom runs out somewhere. |
+| **Google** | $42,698 | $0.36 | **2.01** | **SCALE** | Best channel in the portfolio. Scale aggressively but monitor marginal CPA |
 | **Unity** | $37,558 | $0.31 | **1.49** | **SCALE** | Second profitable channel. Cheapest CAC in the portfolio. Same scaling treatment as Google. |
-| **Ironsource** | $11,070 | $0.48 | 0.99 | **MONITOR** | Sits on breakeven. Don't scale, don't kill. Maintain as a diversification hedge. |
+| **Ironsource** | $11,070 | $0.48 | 0.99 | **MONITOR** | Sits on breakeven. Maintain as a diversification hedge. |
 | **AppLovin** | $17,395 | $0.40 | 0.97 | **OPTIMIZE** | Just below breakeven. Hold spend flat, push three new creative concepts. If ROAS doesn't clear 1.05 in 14 days, demote to Monitor. |
-| **Mintegral** | $9,014 | $0.39 | 0.81 | **MONITOR** | Cheap CAC, poor revenue. Indicates low-LTV cohorts — investigate quality before scaling. |
+| **Mintegral** | $9,014 | $0.39 | 0.81 | **MONITOR** | Cheap CAC, poor revenue. Indicates low-LTV cohorts - investigate quality before scaling. |
 | **Facebook Ads** | $17,079 | $3.16 | **0.57** | **REWORK** | CAC is 7× the portfolio average. Creative fatigue or targeting mismatch. Pause bottom 30% of ad sets and rebuild from creative. |
-| **TikTok Ads** | **$25,264** | **$8.47** | **0.23** | **KILL** | Losing $0.77 on every dollar spent. CAC is 18× Google's. This is not a creative fix — pause entirely. |
+| **TikTok Ads** | **$25,264** | **$8.47** | **0.23** | **KILL** | Losing $0.77 on every dollar spent. CAC is 18× Google's. Pause entirely. |
 
 ### Put TikTok Ads on hold
 
@@ -64,10 +64,10 @@ Although looking bad at first with the ROAS being 0.57, CAC of $3.16 with relati
 
 | **Tier** | **Spend share** | **ROAS** | **Action** | **Why** |
 | --- | --- | --- | --- | --- |
-| **Tier 1 — Scale (US, UK, DE, JP, FR, CA, CH)** | 67.0% | 1.18 | **Grow** | Profitable AND scalable. Take 70% of incremental budget here. |
-| **Tier 2 — Niche profit (AR, AT, IT, MX)** | 9.9% | **2.05** | **Cap** | Excellent ROAS but small TAM. Protect, don't grow. |
-| **Tier 3 — Rework (ZA, AU, CZ)** | 9.3% | 0.75 | **Pause** | Sub-breakeven. Localise creative before any further spend. |
-| **Tier 4 — Test (ES, IN, PE, HK, KR, NZ)** | 13.8% | 1.01 | **Pilot** | Small fixed budgets. Promote to T1 only with sustained ROAS > 1.15. |
+| **Tier 1 - Scale (US, UK, DE, JP, FR, CA, CH)** | 67.0% | 1.18 | **Grow** | Profitable AND scalable. Take 70% of incremental budget here. |
+| **Tier 2 - Niche profit (AR, AT, IT, MX)** | 9.9% | **2.05** | **Cap** | Excellent ROAS but small TAM.|
+| **Tier 3 - Rework (ZA, AU, CZ)** | 9.3% | 0.75 | **Pause** | Sub-breakeven. Localise creative before any further spend. |
+| **Tier 4 - Test (ES, IN, PE, HK, KR, NZ)** | 13.8% | 1.01 | **Pilot** | Small fixed budgets. Promote to T1 only with sustained ROAS > 1.15. |
 
 **Tier 1 detail:** the US alone is $36K of spend at 1.18 ROAS, and performing well. The UK, Germany, Japan all behave similarly. The marginal install in Tier 1 is still profitable. Allocate the Google/Unity scale-up budget first.
 
@@ -84,7 +84,7 @@ Cumulative impact of the four moves, assuming current-quarter run-rate and no LT
 | **Reallocate to Unity +15%** | +$5,634 | +$7,722 revenue | Next 2 weeks |
 | **Hold remainder for Facebook test + T1 fill** | +$13,225 | Variable | 30–45 days |
 | **Pause Tier 3 geos** | −$14,880 | +$3,745 recovered loss | This week |
-| **Net quarterly impact** | **Budget-neutral** | **≈ +$27K contribution** | — |
+| **Net quarterly impact** | **Budget-neutral** | **≈ +$27K contribution** | - |
 
-Annualised, this is **~$110K of additional contribution margin** against zero additional budget. Contribution margin would move from $32K/qtr to roughly $59K/qtr — an **83% improvement** on the metric that actually matters.
+Annualised, this is **~$110K of additional contribution margin** against zero additional budget. Contribution margin would move from $32K/qtr to roughly $59K/qtr - an **83% improvement** on the metric that actually matters.
 
